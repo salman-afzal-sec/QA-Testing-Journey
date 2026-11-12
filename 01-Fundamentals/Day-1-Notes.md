@@ -24,3 +24,10 @@ Rigorous testing is an uncompromising, deep testing approach applied to critical
 * **Impact:** 300,000+ traders disrupted; £3 Billion UK government debt sale postponed.
 * **Root Cause:** A system-wide software failure in interconnected financial infrastructure.
 * **QA Takeaway:** Modern systems are heavily interconnected. A single defect can trigger a ripple effect across global markets, highlighting the need for thorough integration and system testing.
+
+## My Docs Progress Screenshot
+<img width="338" height="211" alt="DAY 1" src="https://github.com/user-attachments/assets/e94e0bc6-bad9-445b-9ce2-000216e46434" />
+
+
+
+
